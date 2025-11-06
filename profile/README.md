@@ -1,8 +1,8 @@
 <h1 align="center">
-  Sooky
+  Instant Store
 </h1>
 <p align="center">
-  Sooky provides modularized online business logic and tools to orchestrate them into powerful SaaS.
+  Instant Store let you build simple eCommerce sites.
 </p>
 <p align="center">
   <a href="https://github.com/sookyjs/.github/blob/main/LICENSE">
