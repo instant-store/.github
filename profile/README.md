@@ -1,8 +1,8 @@
 <h1 align="center">
-  Instant Store
+  Sooky
 </h1>
 <p align="center">
-  Instant Store let you build simple eCommerce sites.
+  Microservices API.
 </p>
 <p align="center">
   <a href="https://github.com/sookyjs/.github/blob/main/LICENSE">
